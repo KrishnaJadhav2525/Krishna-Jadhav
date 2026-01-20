@@ -30,36 +30,4 @@ class KrishnaJadhav:
             "Backend & Full-stack systems",
             "Production-ready coding practices"
         ]
-🛠️ Tech Stack
 
-Languages: Python, C++, JavaScript, TypeScript
-Frontend: React, Next.js, Tailwind CSS
-Backend: Node.js, Express, REST APIs
-Databases: MySQL, MongoDB, PostgreSQL
-Tools: Git, Docker (Basics), AWS (Basics), Vercel
-
-🔭 What I'm Building
-
-Real-time facial recognition system (OpenCV + Qt)
-
-AI-powered applications and automation workflows
-
-Full-stack projects with modern frameworks
-
-🎯 Goals
-
-Build strong software engineering foundations
-
-Learn how production AI systems are designed
-
-Work on meaningful, real-world problems
-
-📫 Connect With Me
-
-🌐 Portfolio: https://your-portfolio-link.vercel.app
-
-💼 LinkedIn: https://www.linkedin.com/in/krishna-jadhav-a5122a316/
-
-🐦 Twitter/X: https://x.com/krlshn444
-
-💻 GitHub: https://github.com/KrishnaJadhav2525
